@@ -16,7 +16,7 @@ chown -R rbernardes.rbernardes /var/lib/pgadmin4/
 chown -R rbernardes.rbernardes /var/log/pgadmin4/
 ```
 
-### Enable virtualenv and install pgadmin (at this time 4.4.11):
+### Enable virtualenv and install pgadmin (at this time 4.4.30):
 ```
 virtualenv .pgadmin4
 cd .pgadmin4/
