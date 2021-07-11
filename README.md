@@ -22,8 +22,8 @@ virtualenv .pgadmin4
 cd .pgadmin4/
 source bin/activate
 
-wget https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.11/pip/pgadmin4-4.11-py2.py3-none-any.whl
-pip install pgadmin4-4.11-py2.py3-none-any.whl
+wget https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v4.30/pip/pgadmin4-4.30-py3-none-any.whl
+pip install pgadmin4-4.30-py3-none-any.whl
 ```
 
 ### Configure server environment:
